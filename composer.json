@@ -1,0 +1,6 @@
+{
+    "require": {
+        "claviska/simpleimage": "^3.6",
+      "ext-gd": "*"
+    }
+}
